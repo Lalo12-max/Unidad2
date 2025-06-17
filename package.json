@@ -1,6 +1,7 @@
 {
   "name": "u2",
   "version": "0.1.0",
+  "homepage": "https://Lalo12-max.github.io/Unidad2/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
